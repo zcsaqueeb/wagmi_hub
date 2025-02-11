@@ -1,13 +1,9 @@
 {
   "limit": 100,
-  "countdown": 86400,
+  "countdown": 300,
   "country_time": "en-US",
-  "howManyEggBoost": 24,
-  "howManyHammerBoost": 24,
+  "howManyEggBoost": 1,
+  "howManyHammerBoost": 1,
   "doTasks": true,
-  "delayEachAccount": [5, 8],
-  "schedule": {
-    "start": "2025-02-11T21:49:00+05:30",
-    "repeat_interval": "hourly"
-  }
+  "delayEachAccount": [5, 8]
 }
